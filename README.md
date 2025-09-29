@@ -17,21 +17,7 @@ This tool helps you **add, view, edit, delete, and analyze expenses** with optio
 
 ## 🛠️ Installation
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/expense-tracker.git
-   cd expense-tracker
-````
-
-2. (Optional) Create and activate a virtual environment:
-
-   ```bash
-   python -m venv venv
-   source venv/bin/activate   # On Linux/Mac
-   venv\Scripts\activate      # On Windows
-   ```
-
-3. Install the required dependencies manually:
+ Install the required dependencies manually:
 
    ```bash
    pip install streamlit pandas matplotlib xlsxwriter
@@ -72,4 +58,3 @@ expense-tracker/
 
 
 
-```
